@@ -19,22 +19,10 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/java/lang/Thread.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="1770" column="35" lean-forward="true" selection-start-line="1770" selection-start-column="35" selection-end-line="1770" selection-end-column="35" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="588">
-                  <caret line="729" column="51" lean-forward="true" selection-start-line="729" selection-start-column="51" selection-end-line="729" selection-end-column="51" />
+                <state relative-caret-position="432">
+                  <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
                   <folding>
                     <element signature="e#15631#15632#0" expanded="true" />
                     <element signature="e#15682#15683#0" expanded="true" />
@@ -44,18 +32,6 @@
                     <element signature="e#41207#41208#0" expanded="true" />
                     <element signature="e#41689#41690#0" expanded="true" />
                     <element signature="e#41746#41747#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dyc/java/lang/Thread.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="287">
-                  <caret line="217" column="28" lean-forward="true" selection-end-line="1499" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -179,10 +155,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/lang/Thread.java" />
         <option value="$PROJECT_DIR$/java/lang/ThreadGroup.java" />
         <option value="$PROJECT_DIR$/dyc/java/lang/Thread.java" />
         <option value="$PROJECT_DIR$/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+        <option value="$PROJECT_DIR$/java/lang/Thread.java" />
       </list>
     </option>
   </component>
@@ -204,17 +180,6 @@
             <path>
               <item name="jdk1.8.0_151" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdk1.8.0_151" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdk1.8.0_151" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdk1.8.0_151" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdk1.8.0_151" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdk1.8.0_151" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,25 +266,24 @@
       <workItem from="1560774480824" duration="5139000" />
       <workItem from="1561384985314" duration="3124000" />
       <workItem from="1561559818112" duration="3604000" />
-      <workItem from="1562050323688" duration="19677000" />
+      <workItem from="1562050323688" duration="19917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42338000" />
+    <option name="totallyTimeSpent" value="42578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-231" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="UI Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.106433675" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.14098491" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32936803" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32936803" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" order="4" side_tool="true" />
@@ -458,23 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="729" column="51" lean-forward="true" selection-start-line="729" selection-start-column="51" selection-end-line="729" selection-end-column="51" />
-          <folding>
-            <element signature="e#15631#15632#0" expanded="true" />
-            <element signature="e#15682#15683#0" expanded="true" />
-            <element signature="e#33320#33321#0" expanded="true" />
-            <element signature="e#33370#33371#0" expanded="true" />
-            <element signature="e#41150#41151#0" expanded="true" />
-            <element signature="e#41207#41208#0" expanded="true" />
-            <element signature="e#41689#41690#0" expanded="true" />
-            <element signature="e#41746#41747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/lang/ThreadGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -506,6 +453,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26154">
+          <caret line="1499" selection-start-line="1499" selection-end-line="1499" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dyc/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -516,12 +473,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/lang/Thread.java">
+    <entry file="file://$PROJECT_DIR$/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="1770" column="35" lean-forward="true" selection-start-line="1770" selection-start-column="35" selection-end-line="1770" selection-end-column="35" />
+        <state relative-caret-position="432">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#15631#15632#0" expanded="true" />
+            <element signature="e#15682#15683#0" expanded="true" />
+            <element signature="e#33320#33321#0" expanded="true" />
+            <element signature="e#33370#33371#0" expanded="true" />
+            <element signature="e#41150#41151#0" expanded="true" />
+            <element signature="e#41207#41208#0" expanded="true" />
+            <element signature="e#41689#41690#0" expanded="true" />
+            <element signature="e#41746#41747#0" expanded="true" />
           </folding>
         </state>
       </provider>
