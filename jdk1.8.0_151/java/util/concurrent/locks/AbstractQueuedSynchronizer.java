@@ -1162,7 +1162,7 @@ public abstract class AbstractQueuedSynchronizer
      * 同样的，在返回false的情况下，可能有另外一个比当前线程进入队列晚，但是竞争成功，因为队列是空的
      *
      * 这个方法设计被一个公平的同步器使用，来避免{@link AbstractQueuedSynchronizer#bargin}，
-     * 这样的同步器的这个方法发挥true，name它的tryAccire方法应该返回false，并且它的tryAcquireShared方法应该返回负数，例如
+     * 这样的同步器的这个方法发挥true，那么它的tryAccire方法应该返回false，并且它的tryAcquireShared方法应该返回负数，例如
      *
      * protected boolean tryAcquire(int arg) {
      *   if (isHeldExclusively()) {

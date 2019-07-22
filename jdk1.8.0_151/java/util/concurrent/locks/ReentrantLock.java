@@ -129,8 +129,7 @@ public class ReentrantLock implements Lock, java.io.Serializable {
         }
 
         // 反序列化
-        private void readObject(java.io.ObjectInputStream s)
-            throws java.io.IOException, ClassNotFoundException {
+        private void readObject(java.io.ObjectInputStream s) throws java.io.IOException, ClassNotFoundException {
             s.defaultReadObject();
             setState(0); // reset to unlocked state
         }
